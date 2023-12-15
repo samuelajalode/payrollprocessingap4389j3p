@@ -24,9 +24,9 @@
   "author": "akintola olalekan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/akinlekan28/payroll/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/akinlekan28/payroll#readme",
+  "homepage": "",
   "dependencies": {
     "@sendgrid/mail": "^6.5.5",
     "bcryptjs": "^2.4.3",
